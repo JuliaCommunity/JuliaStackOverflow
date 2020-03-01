@@ -25,6 +25,10 @@ Despite its flaws, Stack Overflow countinues to be relevant and a helpful resour
 
 Please email logan@julialang.org with you resume and a sample Stack Overflow post about Julia (you can post the question and then send a link). Note that the questions should be self answered meaning you will pose the question as if you genuinely did not know the answer and then follow up with a thoughtful answer. A particular focus on questions desinged for beginners or new Julia developers is suggested. 
 
+We are currently planning to accept and work with 6 Fellows for the first cohort. 
+
+Applications are due March 15th and the Fellows will be announced on March 29th. 
+
 ## Resources
 
 https://stackoverflow.com/help
